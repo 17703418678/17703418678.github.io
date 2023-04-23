@@ -1,0 +1,42 @@
+﻿BODY {
+	BACKGROUND: #efefef
+}
+.webbox {
+	
+}
+.main {
+	BORDER-RIGHT: #aaa 5px solid; BORDER-TOP: #aaa 5px solid; BACKGROUND: #fff; PADDING-BOTTOM: 20px; MARGIN: 10px auto; BORDER-LEFT: #aaa 5px solid; PADDING-TOP: 20px; BORDER-BOTTOM: #aaa 5px solid
+}
+.logo {
+	MARGIN-BOTTOM: 20px; PADDING-BOTTOM: 20px; BORDER-BOTTOM: #efefef 1px solid
+}
+.logo .logoimg {
+	FONT-WEIGHT: bold; FONT-SIZE: 48px; MARGIN-LEFT: 20px; FONT-FAMILY: ΢���ź�
+}
+.logodesc {
+	FONT-SIZE: 22px; COLOR: #e51400; FONT-FAMILY: ΢���ź�
+}
+.rightbox {
+	BORDER-RIGHT: #efefef 1px solid
+}
+.rightbox .content-title {
+	FONT-WEIGHT: bold; FONT-SIZE: 22px; MARGIN-BOTTOM: 8px; MARGIN-LEFT: 20px; COLOR: #e51400; MARGIN-RIGHT: 20px
+}
+.rightbox .content-body {
+	FONT-SIZE: 14px; MARGIN-BOTTOM: 20px; MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px; FONT-FAMILY: ����
+}
+.sidebar {
+	
+}
+.sidebar .gamedown {
+	BORDER-RIGHT: #bbb 2px solid; PADDING-RIGHT: 10px; BORDER-TOP: #bbb 2px solid; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 16px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #bbb 2px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #bbb 2px solid; BACKGROUND-COLOR: #eee; TEXT-ALIGN: center
+}
+.sidebar .gamedown A {
+	COLOR: #e51400; TEXT-DECORATION: none
+}
+.ad {
+	TEXT-ALIGN: center
+}
+.ad IMG {
+	WIDTH: 600px
+}
