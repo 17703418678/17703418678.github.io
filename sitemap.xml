@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.baidu.com/schemas/sitemap-mobile/1/">
+
+<url>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://www.laokaikuo.cn</loc>
+<priority>1.00</priority>
+<lastmod>2020-02-10</lastmod>
+<changefreq>Always</changefreq>
+</url>
+<url>
+<mobile:mobile type="pc,mobile"/>
+<loc>http://www.laokaikuo.cn/chongzhi.html</loc>
+<priority>0.80</priority>
+<lastmod>2020-01-23</lastmod>
+<changefreq>Always</changefreq>
+</url>
+</urlset>
